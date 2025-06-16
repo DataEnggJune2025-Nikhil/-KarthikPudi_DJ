@@ -17,14 +17,6 @@ Features include:
 - Hint system
 - Score tracking
 
----
-
-##  Project Structure
-hangman_project/
-├── hangman.py          # Main game file
-├── words.txt          # Word list file
-├── README.md          # Project documentation
-└── hangman_art.py     # ASCII art (optional separate file)
 
 ## ▶️ How to Run
 
