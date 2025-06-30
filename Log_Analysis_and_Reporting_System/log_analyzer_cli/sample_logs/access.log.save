@@ -1,0 +1,4 @@
+192.168.1.1 - - [12/Mar/2025:09:23:44 +0000] "GET /index.html HTTP/1.1" 200 1024 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+203.0.113.10 - - [12/Mar/2025:10:15:33 +0000] "POST /login HTTP/1.1" 302 512 "http://example.com" "Mozilla/5.0 (Linux; Android 10)"
+BAD LOG ENTRY WITH NO STRUCTURE
+

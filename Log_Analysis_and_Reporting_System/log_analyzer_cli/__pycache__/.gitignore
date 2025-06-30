@@ -1,0 +1,13 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore log files and temporary data
+*.log
+*.save
+
+# Ignore database credentials
+config.ini
+
+# Ignore VSCode or IDE settings (optional)
+.vscode/
